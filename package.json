@@ -1,5 +1,5 @@
 {
-  "homepage":"http://danlantuc.github.io/myportfolio",
+  
   "name": "portfolio",
   "version": "2.0.0",
   "private": true,
@@ -26,8 +26,7 @@
     "typescript": "^4.7.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,6 +48,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    
   }
 }

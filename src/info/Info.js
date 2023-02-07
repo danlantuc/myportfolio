@@ -25,8 +25,8 @@ of what each of the values mean.
 export const info = {
     firstName: "Daniel",
     lastName: "Lanciotti",
-    initials: "DL", // the example uses first and last, but feel free to use three or more if you like.
-    position: "Full Stack Developer",
+    initials: "</>", // the example uses first and last, but feel free to use three or more if you like.
+    position: "Front End Developer / QA Testing",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -41,7 +41,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Looking for my First IT job"
+            text: "Quality Assurance Testing"
         },
         {
             emoji: "📧",
@@ -57,7 +57,7 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/daniel-lanciotti-%F0%9F%87%A6%F0%9F%87%B7-3314aa48/",
+            link: "https://www.linkedin.com/in/daniel-lanciotti-3314aa48/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
@@ -75,11 +75,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Daniel and Welcome to my Portfolio. I'm trying to make my first steps in the IT industrie as a Junior Front End Developer. I've studied Full Stack development in UTN Argentina, Im very proficient and allways a team player. You should hire me!" ,
+    bio: "Hello! I'm Daniel and Welcome to my Portfolio. I'm trying to make my first steps in the IT industrie as a Freelance Front End Developer and QA Tester. I've studied Full Stack development in UTN Argentina, Im very proficient and allways a team player. All of my Work are done with de highest level of professionalism, You should hire me!" ,
     skills:
         {
-            proficientWith: ['Javascript', 'React', 'Node.js', 'Github', 'Bootstrap', 'Html5', 'Tailwindcss', 'Next.js'],
-            exposedTo: ['Express.js', 'MongoDB' ]
+            proficientWith: ['Js', 'ReactJs', 'NodeJs', 'Github', 'Bootstrap', 'Html5', 'Tailwindcss', 'Next.js'],
+            exposedTo: ['Express.js', 'MongoDB','PHP' ]
         }
     ,
     hobbies: [
